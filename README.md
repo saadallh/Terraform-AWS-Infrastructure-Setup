@@ -32,7 +32,7 @@ This Terraform project creates the following resources:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/saadallh/Terraform-AWS-Infrastructure-Setup.git
-   cd your-repo-name
+   cd Terraform-AWS-Infrastructure-Setup
    ```
 
 2. **Initialize Terraform:**
