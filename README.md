@@ -31,7 +31,7 @@ This Terraform project creates the following resources:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/your-repo-name.git
+   git clone https://github.com/saadallh/Terraform-AWS-Infrastructure-Setup.git
    cd your-repo-name
    ```
 
